@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start:debug": "npx tsx ./src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.5"
+  }
+}
